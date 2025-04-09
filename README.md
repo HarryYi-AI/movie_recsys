@@ -36,9 +36,9 @@ movie_recsys
  ```
 
 特征构造与训练：
-bash
+```bash
 python src/train.py
 
 查看模型评估结果与指标计算：
-bash
+```bash
 python src/evaluation.py
